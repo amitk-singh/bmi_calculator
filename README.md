@@ -2,6 +2,9 @@
 
 > Project build on reactjs
 
+## User interface
+![Alt text](calculator_img.JPG)
+
 ## Uses
 
  In the project directory ,run:
